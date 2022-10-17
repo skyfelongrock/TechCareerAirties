@@ -1,8 +1,8 @@
 ![readme](./picture/readme.jpg)
 
-# Ecodation Java Full Stack Developer -2 (10 Ekim 2022)
+# Ecodation Cloud SW (10 Ekim 2022)
 * [GitHub](https://github.com/skyfelongrock/)
-*
+
 ### Gereksinimler
 Java 18
 intellij idea Ultimate
