@@ -23,6 +23,9 @@ package com.gokdemiruzunkaya.tutorials;
 //String tersten yazdıran algoritma java =< avaj
 //Kullanıcı tarafında belirtilen sayıya kadar fibonacci sayısını bulan algoritma
 
+//Dizi
+//Bir dizide 1-10 arasında rastgele sayılar oluştursun ve bu sayılardan tekrar eden sayılardan kaç tane olduğunu ve tekrarsız veriler algoritma yazalım ?
+
 import java.util.Scanner;
 
 public class _000_Examples {

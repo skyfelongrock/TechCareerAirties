@@ -1,6 +1,6 @@
 package com.gokdemiruzunkaya.tutorials;
 
-public enum _014_Enum {
+public enum _016_Enum {
     SMALL,MEDIUM,LARGE
 }
 
@@ -10,8 +10,8 @@ enum permission {
 
 class Deneme{
     public static void main(String[] args) {
-        System.out.println(_014_Enum.MEDIUM);
-        System.out.println(_014_Enum.MEDIUM.toString());
-        System.out.println(_014_Enum.MEDIUM.ordinal());
+        System.out.println(_016_Enum.MEDIUM);
+        System.out.println(_016_Enum.MEDIUM.toString());
+        System.out.println(_016_Enum.MEDIUM.ordinal());
     }
 }
