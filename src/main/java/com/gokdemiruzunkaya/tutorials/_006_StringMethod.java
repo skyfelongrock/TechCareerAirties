@@ -1,6 +1,6 @@
 package com.gokdemiruzunkaya.tutorials;
 
-public class _005_StringMethod {
+public class _006_StringMethod {
     public static void main(String[] args) {
         String v1= "jsp", v2 = "jsf";
         System.out.println(v1+v2);
