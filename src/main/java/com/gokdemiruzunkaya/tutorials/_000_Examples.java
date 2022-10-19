@@ -41,7 +41,7 @@ public class _000_Examples {
         sayi1=input.nextDouble();
 
         System.out.println("lütfen ikinci sayiyi giriniz");
-        sayi2=input.nextInt();
+        sayi2=input.nextDouble();
 
         System.out.println("lütfen yapmak istediğiniz işlemi giriniz");
         Scanner is = new Scanner(System.in);
