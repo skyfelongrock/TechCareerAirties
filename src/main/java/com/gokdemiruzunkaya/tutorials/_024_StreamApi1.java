@@ -138,7 +138,7 @@ public class _024_StreamApi1 {
     public static void streamMapMethod(){
         collectionListData()
                 .stream()
-                .map((temp)-> temp+1)
+                //.map((temp)-> temp+1)
                 .collect(Collectors.toList())
                 .forEach((temp)->{
                     System.out.print(temp+" ");
@@ -164,7 +164,7 @@ public class _024_StreamApi1 {
         //streamCountMethod();
         //streamFilterMethod();
         //streamMapMethod();
-        streamMethodReferances();
+        //streamMethodReferances();
 
     }
 }

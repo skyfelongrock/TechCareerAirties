@@ -17,6 +17,7 @@ package com.gokdemiruzunkaya.tutorials;
 // not ortalaması: 85<=x<=100 AA
 // Vize:40% Final:60%
 // Dikkat: Consolda virgül kullanmalısın.
+
 // while sonsuz döngü   ==> while(true) {}
 // for sonsuz döngü     ==> for(;;) {}
 
